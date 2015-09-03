@@ -1,0 +1,25 @@
+{
+  "name": "grun",
+  "version": "1.0.0",
+  "description": "Auto run Generator function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprufu/grun.git"
+  },
+  "keywords": [
+    "Generator",
+    "yield",
+    "async",
+    "promise"
+  ],
+  "author": "jcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sprufu/grun/issues"
+  },
+  "homepage": "https://github.com/sprufu/grun#readme"
+}
